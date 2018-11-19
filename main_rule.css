@@ -1,0 +1,18 @@
+@charset "utf-8";
+#nav {
+	font-size: 21px;
+
+}
+#footer {
+	text-align: center;
+	font-size: 16px;
+}
+
+#banner   {
+	text-align: center;
+
+}
+#text {
+	text-align: center;
+	font-size: 20px;
+}
