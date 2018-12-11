@@ -1,55 +1,11 @@
 @charset "utf-8";
-li {
-	color: hsla(278,85%,21%,1.00);
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
-	font-style: oblique;
-	font-weight: lighter;
-	font-size: 18px;
-	text-align: center;
-	text-decoration: overline;
-}
-.container nav a {
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
-	text-align: center;
-}
-body {
-	text-align: center;
-	font-size: 16pt;
-}
-
-
 h1 {
-	color: hsla(280,85%,22%,1.00);
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
-	font-style: normal;
-	font-weight: normal;
-	text-align: center;
-	font-size: 35px;
-	text-decoration: none;
-}
-.header p {
-	color: hsla(278,50%,70%,1.00);
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
-	font-style: italic;
-	font-weight: lighter;
-	font-size: 17px;
-	text-align: left;
-}
-
-p {
-	color: hsla(298,93%,17%,1.00);
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 17px;
-	text-decoration: none;
+	text-decoration: underline;
 	text-align: center;
 }
-#body {
+h3 {
 	text-align: center;
 }
-
-#nav {
-	height: 50px;
-	background-color: hsla(194,59%,81%,1.00);
+body p {
+	text-align: center;
 }
